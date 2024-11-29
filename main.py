@@ -21,7 +21,7 @@ async def on_ready():
     print(f"Бот запущен на {bot.user.name}")
     print(f"Disnake.py API версия: {disnake.__version__}")
     print(f"Кол-во команд: {len(bot.slash_commands)}")
-    print(f"Меня создал: yooshito")
+    print(f"Меня создал: yokazeru")
     print("-------------------")
 
     while True:
